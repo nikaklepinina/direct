@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="16.9365mm" height="16.9335mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 258 257.95"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="689" font-variant="normal" style="fill-rule:nonzero" font-weight="700">
+	<font-face 
+		font-family="Open Sans">
+		<font-face-src>
+			<font-face-name name="Open Sans Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="/" horiz-adv-x="413" d="M408.164 713.997l-266.16 -713.997 -135.165 0 265.995 713.997 135.33 0z"/>
+   <glyph unicode="&lt;" horiz-adv-x="570" d="M527.998 99.165l-484.994 213.838 0 69.8265 484.994 242.172 0 -117.165 -334.168 -154.842 334.168 -137.161 0 -116.669z"/>
+   <glyph unicode="&gt;" horiz-adv-x="570" d="M43.0038 215.834l334.168 137.161 -334.168 154.842 0 117.165 484.994 -242.172 0 -69.8265 -484.994 -213.838 0 116.669z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Open Sans";font-variant:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .fil1 {fill:#FEFEFE}
+    .fil0 {fill:#F85360;fill-rule:nonzero}
+    .fnt0 {font-weight:bold;font-size:128.97px;font-family:'Open Sans'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2535665102128">
+   <path class="fil0" d="M258 128.98c0,71.23 -57.76,128.97 -128.99,128.97 -71.25,0 -129,-57.73 -129,-128.97 0,-71.25 57.76,-128.98 129,-128.98 71.23,0 128.99,57.74 128.99,128.98z"/>
+   <text x="28.72" y="175.02"  class="fil1 fnt0">&lt;/&gt;</text>
+  </g>
+ </g>
+</svg>
